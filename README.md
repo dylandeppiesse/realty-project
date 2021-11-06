@@ -15,3 +15,6 @@ For example: British Columbia --> Vancouver (in the group of Greater Vancouver) 
 
 URLs follow this convention: 
 https://www.rew.ca/sitemap/real-estate/bc --> https://www.rew.ca/sitemap/real-estate/vancouver-bc --> https://www.rew.ca/sitemap/real-estate/kitsilano-vancouver-bc
+
+Current Step: Get a list of all Sub Regions
+Next Step: Get a list of every neighbourhood
