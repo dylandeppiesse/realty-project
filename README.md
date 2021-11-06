@@ -16,5 +16,12 @@ For example: British Columbia --> Vancouver (in the group of Greater Vancouver) 
 URLs follow this convention: 
 https://www.rew.ca/sitemap/real-estate/bc --> https://www.rew.ca/sitemap/real-estate/vancouver-bc --> https://www.rew.ca/sitemap/real-estate/kitsilano-vancouver-bc
 
-Current Step: Get a list of all Sub Regions
-Next Step: Get a list of every neighbourhood
+Steps: 
+
+1.Get a list of all Sub Regions
+
+2. Get a list of every neighbourhood
+
+3. Replace "sitemap/real-estate" with "properties/areas so that the above Kitsilano url is: https://www.rew.ca/properties/areas/kitsilano-vancouver-bc
+
+4. Start scraping
